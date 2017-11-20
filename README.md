@@ -3,4 +3,5 @@ my test repository
 
 edit in branch1
 
-second edit in branch1
+line added in master - copied during conflict resolve
+
